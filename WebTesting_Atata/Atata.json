@@ -1,0 +1,16 @@
+﻿{
+  "drivers": [
+    {
+      "type": "chrome",
+      "options": {
+        "arguments": [ "start-maximized" ]
+      }
+    }
+  ],
+  "baseUrl": "https://demo.atata.io/",
+  "useAllNUnitFeatures": true,
+  "account": {
+    "email": "admin@mail.com",
+    "password": "abc123"
+  }
+}
